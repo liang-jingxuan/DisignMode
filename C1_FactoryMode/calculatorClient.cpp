@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     
     Operation *oper ;
-    OperationFactory::createOperator('+', oper);
+    OperationFactory::createOperator('-', oper);
     //这里不使用oper=&OperationFactory::createOperator('+');//是因为会提示错误,使用了一个右值
     oper->setNum(15,20);
     cout<<oper->GetResult();

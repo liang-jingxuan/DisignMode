@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/XXUAN/Desktop/CPPDesignMode/C4_ProxyMode",
-      "program": "c:/Users/XXUAN/Desktop/CPPDesignMode/C4_ProxyMode/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Desktop/CPPDesignMode/C8_Builder",
+      "program": "c:/Users/Lenovo/Desktop/CPPDesignMode/C8_Builder/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
