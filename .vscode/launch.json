@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Desktop/CPPDesignMode/C11_State",
-      "program": "c:/Users/Lenovo/Desktop/CPPDesignMode/C11_State/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Desktop/CPPDesignMode/C12_Adapter",
+      "program": "c:/Users/Lenovo/Desktop/CPPDesignMode/C12_Adapter/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
