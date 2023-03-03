@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Desktop/CPPDesignMode/C17_Bridge",
-      "program": "c:/Users/Lenovo/Desktop/CPPDesignMode/C17_Bridge/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Desktop/CPPDesignMode/C19_ResponsibilityChain",
+      "program": "c:/Users/Lenovo/Desktop/CPPDesignMode/C19_ResponsibilityChain/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
