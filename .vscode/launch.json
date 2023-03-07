@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Desktop/CPPDesignMode/C19_ResponsibilityChain",
-      "program": "c:/Users/Lenovo/Desktop/CPPDesignMode/C19_ResponsibilityChain/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Desktop/CPPDesignMode/C20_Mediator",
+      "program": "c:/Users/Lenovo/Desktop/CPPDesignMode/C20_Mediator/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
